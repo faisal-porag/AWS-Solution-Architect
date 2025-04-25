@@ -5,7 +5,7 @@ AWS Certified Solutions Architect Associate Certification SAA-C03!
 
 # Quiz Question & Answers
 
-### Q. You are working as a Solutions Architect for a company and you are required to design an architecture for a high-performance, low-latency application that will receive millions of requests per second. Which type of Elastic Load Balancer should you choose?
+##### Q. You are working as a Solutions Architect for a company and you are required to design an architecture for a high-performance, low-latency application that will receive millions of requests per second. Which type of Elastic Load Balancer should you choose?
 ### A. Network Load Balancer (NLB)
 
 ---
