@@ -5,23 +5,23 @@ AWS Certified Solutions Architect Associate Certification SAA-C03!
 
 # Quiz Question & Answers
 
-Q. You are working as a Solutions Architect for a company and you are required to design an architecture for a high-performance, low-latency application that will receive millions of requests per second. Which type of Elastic Load Balancer should you choose?
-A. Network Load Balancer (NLB)
+##  Q. You are working as a Solutions Architect for a company and you are required to design an architecture for a high-performance, low-latency application that will receive millions of requests per second. Which type of Elastic Load Balancer should you choose?
+### A. Network Load Balancer (NLB)
 
 ---
 
-Q. For compliance purposes, you would like to expose a fixed static IP address to your end-users so that they can write firewall rules that will be stable and approved by regulators. What type of Elastic Load Balancer would you choose?
-A. Network Load Balancer (NLB)
+##  Q. For compliance purposes, you would like to expose a fixed static IP address to your end-users so that they can write firewall rules that will be stable and approved by regulators. What type of Elastic Load Balancer would you choose?
+### A. Network Load Balancer (NLB)
 
 ---
 
-Q. You have a Network Load Balancer that distributes traffic across a set of EC2 instances in `us-east-1`. You have 2 EC2 instances in `us-east-1b` AZ and 5 EC2 instances in `us-east-1e` AZ. You have noticed that the CPU utilization is higher in the EC2 instances in `us-east-1b` AZ. After more investigation, you noticed that the traffic is equally distributed across the two AZs. How would you solve this problem?
-A. Enable Cross-Zone Load Balancing on the NLB
+##  Q. You have a Network Load Balancer that distributes traffic across a set of EC2 instances in `us-east-1`. You have 2 EC2 instances in `us-east-1b` AZ and 5 EC2 instances in `us-east-1e` AZ. You have noticed that the CPU utilization is higher in the EC2 instances in `us-east-1b` AZ. After more investigation, you noticed that the traffic is equally distributed across the two AZs. How would you solve this problem?
+### A. Enable Cross-Zone Load Balancing on the NLB
 
 ---
 
-Q. Which feature in both Application Load Balancers and Network Load Balancers allows you to load multiple SSL certificates on one listener?
-A. Server Name Indication (SNI)
+##  Q. Which feature in both Application Load Balancers and Network Load Balancers allows you to load multiple SSL certificates on one listener?
+### A. Server Name Indication (SNI)
 
 ---
 
