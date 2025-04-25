@@ -1,4 +1,4 @@
-# AWS-Solution-Architect
+# AWS - Solutions Architect Associate
 AWS Certified Solutions Architect Associate Certification SAA-C03!
 
 
